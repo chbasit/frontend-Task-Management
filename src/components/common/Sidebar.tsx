@@ -122,7 +122,7 @@ export const Sidebar = () => {
           </div>
           <button
             onClick={handleLogout}
-            className="flex min-h-11 w-full items-center justify-center gap-2 rounded-lg px-4 py-2.5 text-sm font-semibold transition-colors hover:bg-red-100"
+            className="flex min-h-11 w-full cursor-pointer items-center justify-center gap-2 rounded-lg px-4 py-2.5 text-sm font-semibold transition-colors hover:bg-red-100"
             style={{
               backgroundColor: colors.dangerLight,
               color: colors.danger,
