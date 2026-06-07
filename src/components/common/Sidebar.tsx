@@ -72,8 +72,8 @@ export const Sidebar = () => {
               href="/tasks"
               className="flex min-h-11 items-center justify-center gap-2 rounded-lg bg-blue-600 px-4 py-3 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-blue-700"
             >
-              <Plus size={18} />
-              Add Task
+             
+              Add Task  <Plus size={18} />
             </Link>
           </div>
         )}

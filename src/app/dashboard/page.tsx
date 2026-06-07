@@ -32,15 +32,14 @@ export default function DashboardPage() {
               href="/projects"
               className="inline-flex min-h-8 items-center gap-2 rounded-lg bg-white px-4 text-sm font-semibold text-slate-700 transition-colors hover:bg-slate-50"
             >
-              <BriefcaseBusiness size={17} />
               New Project
             </Link>
             <Link
               href="/tasks"
               className="inline-flex min-h-11 items-center gap-2 rounded-lg bg-blue-600 px-4 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-blue-700"
             >
-              <Plus size={17} />
-              Add Task
+              
+              Add Task <Plus size={17} />
             </Link>
           </>
         }
