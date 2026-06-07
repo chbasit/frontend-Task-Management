@@ -1,13 +1,11 @@
 ## Task Management Dashboard
 
-A Project & Task Management Dashboard built with cutting-edge technologies. This application demonstrates professional software engineering practices with clean architecture, reusable components, and comprehensive type safety.
-
+A Project & Task Management Dashboard built with Next js, typescript and tailwind css technologies.
 ## Project Overview
 
  
 - Reusable component library
 - Type-safe development with TypeScript
-- Centralized design system 
 - state management
 - Advanced form validation
 - Mock API with real-world error handling
