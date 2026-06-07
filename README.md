@@ -23,5 +23,5 @@ Styling:             Tailwind CSS 4
 State Management:    Zustand
 Form Validation:     React Hook Form + Zod
 HTTP Client:         Axios with interceptors
-Charts:              Recharts 
-Icons:               Lucide Rea
+Charts:              Recharts
+Icons:               Lucide React
