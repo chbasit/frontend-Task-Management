@@ -133,21 +133,8 @@ export const RegisterForm = () => {
           sizes="55vw"
           className="object-cover"
         />
-        <div className="absolute inset-0 bg-slate-950/65" />
-        <div className="relative z-10 flex h-full items-end p-12 xl:p-16">
-          <div className="max-w-xl text-white">
-            <div className="mb-5 inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1.5 text-sm font-semibold backdrop-blur">
-              <ShieldCheck size={16} />
-              Secure workspace setup
-            </div>
-            <h2 className="text-4xl font-bold leading-tight tracking-tight xl:text-5xl">
-              Start with structure before the work gets noisy.
-            </h2>
-            <p className="mt-5 max-w-lg text-base leading-7 text-white/80">
-              Create projects, track tasks, and keep team priorities readable from day one.
-            </p>
-          </div>
-        </div>
+        <div className="absolute inset-0 " />
+       
       </section>
     </div>
   );
