@@ -1,6 +1,6 @@
 import axios, { AxiosInstance, AxiosError } from 'axios';
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://api.example.com';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL ;
 
 class APIClient {
   private axiosInstance: AxiosInstance;
